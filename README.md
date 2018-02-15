@@ -1,24 +1,5 @@
-# README
+# Twitter page :D
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+through this [herokuapp](https://serene-crag-56833.herokuapp.com/) You will be able to send tweets on this account : [Thp-twitt](https://twitter.com/ThpTwitt)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+***WARNING : USE IT WITH INTELLIGENCE AND ONLY FOR CORRECTIONS ... DO NOT DISRESPECT THE RULES ESTABLISHED BY TWITTER***
