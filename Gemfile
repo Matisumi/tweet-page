@@ -11,6 +11,7 @@ gem 'turbolinks'
 gem 'jbuilder'
 gem 'devise'
 gem 'twitter'
+gem 'dotenv-rails'
 #gem 'bcrypt', '3.1.11'
 
 group :development, :test do
