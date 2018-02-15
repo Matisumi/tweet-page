@@ -22,7 +22,7 @@ class Twittbot
 		puts "end of perform"
 
 		return 1
-		
+
 	end
 
 
@@ -30,7 +30,7 @@ class Twittbot
 
 		puts "Loging in"
 
-		Dotenv.load
+		
 
 		@client = Twitter::REST::Client.new do |config|
   		config.consumer_key        = ENV['TWITTER_CONSUMER_KEY']
